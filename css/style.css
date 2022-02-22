@@ -1,0 +1,25 @@
+/*Components files */
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/cards.css");
+@import url("components/footer.css");
+
+/*Polices de caractère */
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,300;1,400&display=swap');
+
+body {
+	margin: 0px;
+	font-family: 'Kanit', sans-serif;
+}
+
+
+h1 {
+	font-size: xx-large;
+}
+h2 {
+	font-size: large;
+}
+a {
+	text-decoration: none;
+}
